@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Escritorio\PC2SinErrores\PC2SinErrores\Debug\PC2SinErrores.vcxproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\PC2SinErrores\PC2SinErrores\Debug\PC2SinErrores.MyForm.resources
+C:\Users\Usuario\OneDrive\Escritorio\PC2SinErrores\PC2SinErrores\Debug\PC2SinErrores.vcxproj.GenerateResource.cache
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 12\PC2SinErrores\PC2SinErrores\Debug\PC2SinErrores.vcxproj.AssemblyReference.cache
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 12\PC2SinErrores\PC2SinErrores\Debug\PC2SinErrores.MyForm.resources
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Ciclo 3\Progra 2\Semana 12\PC2SinErrores\PC2SinErrores\Debug\PC2SinErrores.vcxproj.GenerateResource.cache
